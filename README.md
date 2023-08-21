@@ -1,0 +1,1 @@
+And n-grams algo to predict Hangman algo with accuracy > 50%.
